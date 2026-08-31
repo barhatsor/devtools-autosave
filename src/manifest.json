@@ -4,7 +4,7 @@
     "128": "icon.png"
   },
   "description": "Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload.",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "author": "barhatsor",
   "homepage_url": "https://github.com/barhatsor/devtools-autosave",
