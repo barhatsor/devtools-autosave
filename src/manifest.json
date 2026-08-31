@@ -6,8 +6,8 @@
   "description": "Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload.",
   "version": "1.0",
   "manifest_version": 3,
-  "author": "benhatsor",
-  "homepage_url": "https://github.com/benhatsor/devtools-autosave",
+  "author": "barhatsor",
+  "homepage_url": "https://github.com/barhatsor/devtools-autosave",
   "devtools_page": "devtools.html",
   "permissions": [
       "storage"
